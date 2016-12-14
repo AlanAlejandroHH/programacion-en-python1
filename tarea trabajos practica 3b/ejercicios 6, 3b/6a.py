@@ -1,0 +1,17 @@
+Alan Alejandro Herrera Huerta
+#tarea 6 ,6a
+k=np.linspace(0,2*np.pi,150)
+r=-250*np.sin(5*k)*np.cos(4*k)
+s=k+np.sin(r/100)
+p=320+r*np.cos(s)
+w=-240-r*np.sin(s)
+plt.plot(p,w,linewidth=10,color='g',label='Grafica')
+plt.legend()
+plt.title('Ejercicio 6.1)')
+plt.xlabel('Tiempo')
+plt.ylabel('Dias')
+plt.fill_between(x,y,color='r')
+plt.axis('equal')
+plt.axis('off')
+plt.grid(True)
+plt.show()
