@@ -1,4 +1,4 @@
-Alan Alejandro Herrera Huerta
+#Alan Alejandro Herrera Huerta
 #trabajo 5
 
 print "ingresa tu peso en kg"
