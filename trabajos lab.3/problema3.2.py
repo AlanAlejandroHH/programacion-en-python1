@@ -1,4 +1,4 @@
-Alan Alejandro Herrera Huerta
+#Alan Alejandro Herrera Huerta
 #tarea 2
 
 print "ingresa un numero de 4 digitos"
