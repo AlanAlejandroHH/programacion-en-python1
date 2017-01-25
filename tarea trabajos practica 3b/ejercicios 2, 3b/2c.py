@@ -1,6 +1,6 @@
-Alan Alejandro Herrera Huerta
+#Alan Alejandro Herrera Huerta
 #tarea 3
-trabajo 2c
+#trabajo 2c
 
 
 
