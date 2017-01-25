@@ -1,6 +1,7 @@
-Alan Alejandro Herrera Huerta
+#Alan Alejandro Herrera Huerta
 #tarea3 ,3b
-3c
+#3c
+
 import matplotlib.pyplot as plt
 import numpy as np
 import math
