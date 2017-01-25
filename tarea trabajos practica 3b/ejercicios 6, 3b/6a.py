@@ -1,5 +1,7 @@
-Alan Alejandro Herrera Huerta
+#Alan Alejandro Herrera Huerta
 #tarea 6 ,6a
+
+
 k=np.linspace(0,2*np.pi,150)
 r=-250*np.sin(5*k)*np.cos(4*k)
 s=k+np.sin(r/100)
