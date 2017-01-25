@@ -1,4 +1,4 @@
-Alan Alejandro Herrera Huerta
+#Alan Alejandro Herrera Huerta
 
 import matplotlib.pyplot as plt
 import numpy as np
