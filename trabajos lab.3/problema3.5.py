@@ -1,4 +1,4 @@
-Alan Alejandro Herrera Huerta
+#Alan Alejandro Herrera Huerta
 #tarea 5
 
 print "ingresa tu nombre la primer letra en mayusculas: "
