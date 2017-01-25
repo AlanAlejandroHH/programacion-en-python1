@@ -1,4 +1,4 @@
-Alan Alejandro Herrera Huerta
+#Alan Alejandro Herrera Huerta
 #mini eaxamen
 
 "print pida una palabra y muestrala inversa"
