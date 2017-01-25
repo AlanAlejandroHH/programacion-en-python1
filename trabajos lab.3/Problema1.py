@@ -1,4 +1,4 @@
-Alan Alejandro Herrera Huerta
+#Alan Alejandro Herrera Huerta
 #tarea 1
 
 import math
