@@ -1,6 +1,8 @@
-Alan Alejandro H errera Huerta
+#Alan Alejandro H errera Huerta
 #tarea 7 ,3b
-7
+#7
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 import math
